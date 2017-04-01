@@ -12,7 +12,7 @@ The movies object created must then be added to the films variable which is then
 open_movies_page() is part of fresh_tomatoes.py found here:
 https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py
 
-AUTHORS
+## AUTHORS
 
 Jonathan Revah
 jrevah@gmail.com
